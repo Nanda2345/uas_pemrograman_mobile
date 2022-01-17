@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salihin Alfarizi/Documents/Tugas-3_List-view-master/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Salihin Alfarizi/Documents/Tugas-3_List-view-master/app/src/main/res/layout/activity_main.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Salihin Alfarizi/Documents/Tugas-3_List-view-master/app/src/main/res/layout/activity_profil_ras.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Salihin Alfarizi/Documents/Tugas-3_List-view-master/app/src/main/res/layout/row_daftar_hewan.xml" value="0.19202898550724637" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2846153846153846" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2846153846153846" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.27291666666666664" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_profil_ras.xml" value="0.13272543059777103" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/layout/row_daftar_hewan.xml" value="0.13272543059777103" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2846153846153846" />
+        <entry key="..\:/kucing-anjing-pedia-listview-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2846153846153846" />
+        <entry key="..\:/pemrograman mobile/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.25" />
+        <entry key="..\:/pemrograman mobile/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_main.xml" value="0.24791666666666667" />
+        <entry key="..\:/pemrograman mobile/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_profil_ras.xml" value="0.24791666666666667" />
+        <entry key="..\:/pemrograman mobile/kucing-anjing-pedia-listview-main/app/src/main/res/layout/row_daftar_hewan.xml" value="0.24791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
